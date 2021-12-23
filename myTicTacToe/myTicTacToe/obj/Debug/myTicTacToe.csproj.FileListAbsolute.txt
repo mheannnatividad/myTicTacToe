@@ -8,3 +8,13 @@ C:\Users\Computer\source\repos\myTicTacToe\myTicTacToe\obj\Debug\myTicTacToe.csp
 C:\Users\Computer\source\repos\myTicTacToe\myTicTacToe\obj\Debug\myTicTacToe.csproj.CoreCompileInputs.cache
 C:\Users\Computer\source\repos\myTicTacToe\myTicTacToe\obj\Debug\myTicTacToe.exe
 C:\Users\Computer\source\repos\myTicTacToe\myTicTacToe\obj\Debug\myTicTacToe.pdb
+C:\Users\Computer\Desktop\OOP\myTicTacToe\myTicTacToe\myTicTacToe\bin\Debug\myTicTacToe.exe.config
+C:\Users\Computer\Desktop\OOP\myTicTacToe\myTicTacToe\myTicTacToe\bin\Debug\myTicTacToe.exe
+C:\Users\Computer\Desktop\OOP\myTicTacToe\myTicTacToe\myTicTacToe\bin\Debug\myTicTacToe.pdb
+C:\Users\Computer\Desktop\OOP\myTicTacToe\myTicTacToe\myTicTacToe\obj\Debug\myTicTacToe.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\OOP\myTicTacToe\myTicTacToe\myTicTacToe\obj\Debug\myTicTacToe.Form1.resources
+C:\Users\Computer\Desktop\OOP\myTicTacToe\myTicTacToe\myTicTacToe\obj\Debug\myTicTacToe.Properties.Resources.resources
+C:\Users\Computer\Desktop\OOP\myTicTacToe\myTicTacToe\myTicTacToe\obj\Debug\myTicTacToe.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\OOP\myTicTacToe\myTicTacToe\myTicTacToe\obj\Debug\myTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\OOP\myTicTacToe\myTicTacToe\myTicTacToe\obj\Debug\myTicTacToe.exe
+C:\Users\Computer\Desktop\OOP\myTicTacToe\myTicTacToe\myTicTacToe\obj\Debug\myTicTacToe.pdb
